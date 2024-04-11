@@ -295,7 +295,7 @@ const Modal: FC<Props> = ({ handleCloseModal, selectedProduct, cookie }) => {
             <div className="text-sm md:text-base font-semibold mt-2 md:mt-0">
               Or You Can Call{" "}
               <span className="text-[#598f26] font-semibold">
-                1800-234-4284
+                +91 9790897308
               </span>
             </div>
           </div>

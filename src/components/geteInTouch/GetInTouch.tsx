@@ -17,14 +17,15 @@ const DummyData = [
   {
     image: locationImg,
     heading: "Visit Us",
-    subHeading: "92 Bowery St., New York, NY 10013, USA",
+    subHeading:
+      "7th Floor, EA Chambers Tower II,49/50L, Whites Rd, Express Estate, Royapettah, Chennai, Tamil Nadu 600014",
   },
   {
     image: messageImg,
     heading: "Mail Us",
     subHeading: "support@farmacyfarm.com",
   },
-  { image: call, heading: "Call Us", subHeading: "1233-777-2615" },
+  { image: call, heading: "Call Us", subHeading: "+91 9790897308/9798912099" },
 ];
 
 const GetInTouch = () => {

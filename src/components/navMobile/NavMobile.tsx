@@ -441,7 +441,7 @@ const NavMobile = ({ cookie }: any) => {
                 <div>
                   <BsTelephone className="h-[18px] w-[18px]" />
                 </div>
-                <div>1800-234-3566</div>
+                <div>+91 9790897308</div>
               </div>
             </div>
           </div>

@@ -485,7 +485,7 @@ const NavbarClient = ({ cookie }: any) => {
             <div>
               <FlatIcon icon="flaticon-calling text-xl text-[#51150a]" />
             </div>
-            <p className="text-[#51150A]">1800-234-3566</p>
+            <p className="text-[#51150A]">+91 9790897308</p>
           </div>
         </div>
       )}
